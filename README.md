@@ -1,1 +1,1 @@
-# Sonar-App-for-chipKIT-Pro-MX7
+# Sonar App for chipKIT Pro MX7
